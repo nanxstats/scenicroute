@@ -1,5 +1,6 @@
 ---
 title: "Scenic Route"
+subtitle: "A cozy approach towards AI"
 about:
   template: trestles
   image: "images/kevin-kyburz-jwjQlr990yI-unsplash.jpg"
