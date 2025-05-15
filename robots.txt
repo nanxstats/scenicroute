@@ -1,1 +1,1 @@
-Sitemap: https://nanxstats.github.io/scenicroute/sitemap.xml
+Sitemap: https://scenicroute.ai/sitemap.xml
